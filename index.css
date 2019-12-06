@@ -81,9 +81,10 @@ h2 {
 
     .page-nav ul li {
       transition: all 300ms ease;
-      left: 0px;
+      left: -180px;
       position: none;
       line-height: 0%;
+      bottom: -120px; 
     }
 
       .page-nav ul li:hover {
